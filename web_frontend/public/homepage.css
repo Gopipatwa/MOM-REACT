@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(246, 246, 246);
+}
+.Navbar>ul{
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+}
+.Navbar>ul>li>button{
+    background-color: white;
+    border: none;
+}
+
+.Navbar>ul>li>button:hover {
+    padding: auto;
+}
+
+ul>li>button{
+    border: none;
+    background-color: rgb(246, 246, 246);;
+    font-size: 1.5rem;
+}
+.navbar-list>li>div>a{
+    text-decoration: none;
+    display: flex;
+    margin: 0 10px 0 0;
+    color: black;
+}
+
+/*hover navbar pending  */
+.box>a{
+    color:black
+}
+.carousel-item{
+    height: 350px;
+} 
+.carousel-item img{
+    height: 350px;
+}
